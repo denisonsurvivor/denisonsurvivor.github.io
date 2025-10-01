@@ -782,7 +782,7 @@ function tick(event) {
 
 
 var apiUrl = 'flappy-backend.fly.dev';//'localhost:3001'//
-var rootUrl = 'flappybird.io';//'localhost:4000'//
+var rootUrl = 'denisonsurvivor.github.io/flappybird/';//'localhost:4000'//
 
 function retreiveScore() {
     var hash = location.hash.substring(1);
